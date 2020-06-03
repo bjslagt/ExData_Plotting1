@@ -1,5 +1,7 @@
 ## Introduction
 
+**NOTE I stored my graphs in the figure subdirectory! **
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
@@ -106,13 +108,23 @@ My plot1
 
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 
+My plot2
+
+![plot2.png](figure/plot2.png) 
 
 ### Plot 3
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 
+My plot3
+
+![plot3.png](figure/plot3.png) 
 
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+
+My plot4
+
+![plot4.png](figure/plot4.png) 
 
