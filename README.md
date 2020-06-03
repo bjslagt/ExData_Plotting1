@@ -1,6 +1,6 @@
 ## Introduction
 
-**NOTE I stored my graphs in the figure subdirectory! **
+**NOTE I stored my png files in the figure subdirectory!! **
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
